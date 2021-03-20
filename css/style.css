@@ -1,0 +1,162 @@
+body {
+  background: #c7ede4;
+  font-family: "Segoe UI", Arial, sans-serif;
+
+  background-attachment: fixed;
+}
+.espacamento-titulo {
+  position: static;
+}
+
+nav.navbar-transparente {
+  background-color: #672ae4;
+  padding: 15px 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #c7ede4;
+  font-size: 18px;
+  padding: 15px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #d5fff3;
+  font-size: 15px;
+}
+
+/* EDIÇÃO DO TOGGLER  */
+
+.navbar-light .navbar-toggler {
+  color: rgba(255, 255, 255, 0.5);
+  border-color: white;
+}
+
+/*carousel*/
+
+#carouselExampleFade {
+  margin-top: 20px;
+}
+
+/* conteudoooo########################################################### */
+
+/* Estrutura do site
+*/
+
+/* Barra de navegação
+*/
+
+/*CAIXAS DE NOTICIAS*/
+
+#primario {
+  margin-top: 60px;
+}
+
+#secundario {
+  margin-top: 60px;
+}
+.formatacao {
+  margin-top: 60px;
+}
+
+/*Caixa*/
+.caixa {
+  width: 255px;
+  height: 450px;
+  background: #672ae4 url(/img/fundo-caixa.png);
+  text-align: center;
+  border-radius: 10px;
+}
+
+.caixa-conteudo {
+  background: #af9ab2;
+  position: relative;
+  top: 30px;
+  left: 10px;
+  width: 230px;
+  height: 370px;
+  border-radius: 10px;
+}
+
+/* Formatando cabeçalhos */
+
+.caixa h3 {
+  color: #c7ede4;
+  font-size: 20px;
+  padding-top: 5px;
+}
+
+.caixa-conteudo h3 {
+  color: #000;
+}
+
+.lerMais {
+  position: relative;
+  top: 35px;
+  color: #000;
+  font-size: 20px;
+}
+
+/*Formatando lista de notícias*/
+
+.sistema-cores {
+  background: #672ae4 url(/img/fundo-caixa.png);
+  font-size: 25px;
+  text-align: center;
+  color: #c7ede4;
+}
+
+.card-body {
+  background-color: #af9ab2;
+}
+
+.ajuste-card {
+  width: 100px;
+}
+
+/*formatar as imagens e informações da equipe*/
+
+#espacamento-section {
+  margin-top: 40px;
+}
+
+.formatar-imagem img {
+  margin: 50px;
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+  box-shadow: 5px 7px 10px #af9ab2;
+}
+
+.formatar-texto {
+  font-size: 15px;
+  text-align: left;
+}
+
+div h4 {
+  font-size: 18px;
+}
+
+div h5 {
+  color: #672ae4;
+}
+
+/* rodapeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee */
+
+footer {
+  background: rgba(30, 31, 30, 0.6);
+  padding-top: 50px;
+  position: relative;
+}
+
+.formatar-copy {
+  display: block;
+}
+.formatar-copy2 {
+  display: inline;
+}
+.formatar-copy3 {
+  padding-top: 30px;
+}
+
+/* ##############################################################
+ */
